@@ -4,7 +4,7 @@ A simple starter project.
 
 ## Getting Started
 
-This project demonstrates a basic setup. Just run `npm install` to get starte.
+This project demonstrates a basic setup. Just run `npm install` to get started.
 
 ## Features
 
